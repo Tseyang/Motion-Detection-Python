@@ -1,3 +1,5 @@
+#Python script that takes in a video file and outputs a video with only frames that are sufficiently different from FIRST FRAME
+
 import argparse
 import datetime
 import imutils
